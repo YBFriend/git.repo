@@ -1,2 +1,2 @@
-out.print("hello World");
-run();
+out.print("hello World")
+run()
