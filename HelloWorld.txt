@@ -1,3 +1,4 @@
 out.print("hello World");
 run();
 prit("Hello brother");
+prit("How are you?");
