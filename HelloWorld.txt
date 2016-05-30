@@ -1,2 +1,3 @@
 out.print("hello World");
 run();
+print("And hello!");
